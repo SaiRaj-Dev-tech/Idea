@@ -1,1 +1,1 @@
-# Idea
+"# MyIdea Project" 
